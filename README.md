@@ -39,11 +39,16 @@ Follow these steps to test the system:
 
 ## Test different cases:
 - Enter valid choices (1–4) and observe correct output
-- Enter invalid input (like letters or wrong numbers) to test validation
+- Enter invalid inputs (like letters or wrong numbers) to test validation
 - Try entering wrong input 3 times to check attempt limit
 - Give feedback (yes/no) and see system response
 - Use the loop feature to test multiple moods
 
 This will help verify that all features of the system are working correctly.
+
+## Made by:
+Saksham Jain
+B.Tech CSE Core
+VIT Bhopal University
    
 

@@ -47,8 +47,8 @@ Follow these steps to test the system:
 This will help verify that all features of the system are working correctly.
 
 ## Made by:
-Saksham Jain
-B.Tech CSE Core
-VIT Bhopal University
+-Saksham Jain
+-B.Tech CSE Core
+-VIT Bhopal University
    
 
